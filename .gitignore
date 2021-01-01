@@ -1,0 +1,6 @@
+## Include names of files you do not want to upload to a public repository (or even a local one)
+## Include api keys, passwords etc., clutter like local config files like .DS_Store (on macs)
+.DS_Store
+secrets.txt
+
+## Can download typical gitignore files from git under git/gitignore
